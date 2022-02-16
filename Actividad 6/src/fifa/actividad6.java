@@ -15,6 +15,8 @@ public class actividad6 {
     static int mejorJugador1 [] = new int [3];
     static int mejorJugador2 [] = new int [3];
 
+    //Github
+
 
 
     public static void main(String[] args) {
